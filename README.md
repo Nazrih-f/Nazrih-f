@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nazrih
 - 👀 I’m interested in football and gaming
-- 🌱 I’m currently learning Django and node.js
+- 🌱 I’m currently learning Django 
 
 
 
